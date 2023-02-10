@@ -1,8 +1,11 @@
-# CJ-Internship_23Winter
-2023년 CJ Olive Networks 동계 인턴십
-
+# CJ-Internship_23Winter_Fashion Retrieval
+2023년 CJ Olive Networks 동계 인턴십_패션 조합 추천 시스템
 
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=100&section=footer&text=2023년%20CJ%20Olive%20Networks%20동계인턴십%20Image%20Retrieval%20&fontSize=30)
+
+### Motivation
+
+
 
 <table>
   <th> Date </th>
