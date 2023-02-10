@@ -33,15 +33,23 @@
     <td> 2023-02-06 </td>
     <td> 이미지 데이터 크롤링 </td>
     <td> 
-        M** Webpage에서 스타일별 이미지 데이터 크롤링
+        MUSINSA Webpage에서 스타일별 이미지 데이터 크롤링
     </td>
     <td>  </td>
   </tr>
   
   <tr>
-    <td> 2023-02-08 ~ 2023-02-10 </td>
-    <td> 패션 이미지 특징 추출 - VGG16 </td>
+    <td> 2023-02-08 </td>
+    <td> 패션 이미지 특징 추출  VGG16 </td>
     <td> Query 이미지 배경 제거 전</td>
-    <td> </td>
+    <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/original_img.png"/> </td>
+    <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/original_ret.png"/> </td>
+  </tr>
+  <tr>
+    <td> 2023-02-09 </td>
+    <td> 패션 이미지 특징 추출  VGG16 </td>
+    <td> Query 이미지 배경 제거 후</td>
+    <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/removed_img.png"/> </td>
+    <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/removed_ret.png"/> </td>
   </tr>
 </div> 
