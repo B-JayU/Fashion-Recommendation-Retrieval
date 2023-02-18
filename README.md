@@ -41,15 +41,21 @@
   <tr>
     <td> 2023-02-08 </td>
     <td> 패션 이미지 특징 추출  VGG16 </td>
-    <td> Query 이미지 배경 제거 전</td>
+    <td> Query 이미지 배경 제거 전 </td>
     <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/original_img.png"/> </td>
     <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/original_ret.png"/> </td>
   </tr>
   <tr>
     <td> 2023-02-09 </td>
     <td> 패션 이미지 특징 추출  VGG16 </td>
-    <td> Query 이미지 배경 제거 후</td>
+    <td> Query 이미지 배경 제거 후 </td>
     <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/removed_img.png"/> </td>
     <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/removed_ret.png"/> </td>
+  </tr>
+  <tr>
+    <td> 2023-02-14 ~ 2023-02-17 </td>
+    <td> 패션 이미지 메타 데이터셋 구축 </td>
+    <td> 웹 페이지내 패션 착장 이미지에서 성별, 카테고리, 태그정보 등을 수집 ( 이미지 메타 데이터 셋 구축 하기 ) </td>
+    <td> </td>
   </tr>
 </div> 
