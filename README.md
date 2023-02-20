@@ -56,6 +56,6 @@
     <td> 2023-02-14 ~ 2023-02-17 </td>
     <td> 패션 이미지 메타 데이터셋 구축 </td>
     <td> 웹 페이지내 패션 착장 이미지에서 성별, 카테고리, 태그정보 등을 수집 ( 이미지 메타 데이터 셋 구축 하기 ) </td>
-    <td> </td>
+    <td> <img src="https://github.com/B-JayU/CJ-Internship_23Winter/blob/main/ReadMe_IMG/metadata.png"/></td>
   </tr>
 </div> 
