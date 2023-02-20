@@ -22,6 +22,18 @@
 
 </div>
 
+## TO DO LIST
+
+- [x] 이미지 데이터 셋 확보
+- [x] 이미지 메타 데이터 수집
+- [x] 이미지 전처리 (배경제거)
+- [x] 키워드 기반 유사 패션 이미지 검색 엔진 구현
+- [ ] 이미지 특징추출 모델 학습
+- [ ] 간단한 검색 웹 API 구현
+- [ ] Private Digital Closet system 구현
+
+
+
 ## Work Log
 <div>
 <table>
