@@ -1,6 +1,6 @@
-# CJ-Internship_23Winter_Fashion Retrieval
+# Fashion Recommendation Retrieval
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=100&section=footer&text=2023년%20CJ%20Olive%20Networks%20동계인턴십%20Image%20Retrieval%20&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=100&section=footer&text=Fashion%20Image%20Retrieval%20&fontSize=30)
 
 ## Motivation
 <div>
