@@ -42,11 +42,6 @@
 - [x] 이미지 특징추출 모델 학습
 - [x] 간단한 검색 웹 API 구현
 
-- [ ] 패션 이미지 segmentation
-- [ ] 패션 이미지 detection
-- [ ] CNN 특징 추출 모델 개선
-- [ ] Private Digital Closet system 구현
-
 ## Work Log
 <div>
 <table>
